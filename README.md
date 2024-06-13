@@ -19,6 +19,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/gautamkshah/leetcode_sol/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/gautamkshah/leetcode_sol/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gautamkshah/leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/gautamkshah/leetcode_sol/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -40,12 +41,14 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/gautamkshah/leetcode_sol/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/gautamkshah/leetcode_sol/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/gautamkshah/leetcode_sol/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gautamkshah/leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gautamkshah/leetcode_sol/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/gautamkshah/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/gautamkshah/leetcode_sol/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gautamkshah/leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
 | ------- |
