@@ -54,6 +54,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/gautamkshah/leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gautamkshah/leetcode_sol/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gautamkshah/leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2227-sum-of-subarray-ranges](https://github.com/gautamkshah/leetcode_sol/tree/master/2227-sum-of-subarray-ranges) |
 # Sorting
 |  |
 | ------- |
@@ -96,3 +97,11 @@
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/gautamkshah/leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
+# Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/gautamkshah/leetcode_sol/tree/master/2227-sum-of-subarray-ranges) |
+# Monotonic Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/gautamkshah/leetcode_sol/tree/master/2227-sum-of-subarray-ranges) |
