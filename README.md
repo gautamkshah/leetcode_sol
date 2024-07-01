@@ -105,3 +105,10 @@
 |  |
 | ------- |
 | [2227-sum-of-subarray-ranges](https://github.com/gautamkshah/leetcode_sol/tree/master/2227-sum-of-subarray-ranges) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/gautamkshah/leetcode_sol/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
