@@ -112,6 +112,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/gautamkshah/leetcode_sol/tree/master/1293-three-consecutive-odds) |
+| [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +129,13 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
+## Stack
+|  |
+| ------- |
+| [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
+## Simulation
+|  |
+| ------- |
+| [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
