@@ -110,12 +110,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gautamkshah/leetcode_sol/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/gautamkshah/leetcode_sol/tree/master/1293-three-consecutive-odds) |
 | [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gautamkshah/leetcode_sol/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
