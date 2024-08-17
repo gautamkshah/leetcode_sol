@@ -116,6 +116,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/gautamkshah/leetcode_sol/tree/master/1293-three-consecutive-odds) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/gautamkshah/leetcode_sol/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gautamkshah/leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamkshah/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/gautamkshah/leetcode_sol/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Tree
 |  |
 | ------- |
