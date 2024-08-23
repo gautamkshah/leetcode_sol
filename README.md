@@ -149,6 +149,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -173,4 +174,12 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Math
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
+## String
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
