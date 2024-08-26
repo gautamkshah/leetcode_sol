@@ -145,6 +145,7 @@
 ## Stack
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/gautamkshah/leetcode_sol/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Simulation
 |  |
@@ -159,6 +160,7 @@
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/gautamkshah/leetcode_sol/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gautamkshah/leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -169,6 +171,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/gautamkshah/leetcode_sol/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
 ## Sliding Window
 |  |
