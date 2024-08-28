@@ -116,6 +116,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/gautamkshah/leetcode_sol/tree/master/1293-three-consecutive-odds) |
+| [2035-count-sub-islands](https://github.com/gautamkshah/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/gautamkshah/leetcode_sol/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gautamkshah/leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gautamkshah/leetcode_sol/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
+| [2035-count-sub-islands](https://github.com/gautamkshah/leetcode_sol/tree/master/2035-count-sub-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,4 +189,16 @@
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/gautamkshah/leetcode_sol/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/gautamkshah/leetcode_sol/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/gautamkshah/leetcode_sol/tree/master/2035-count-sub-islands) |
+## Matrix
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/gautamkshah/leetcode_sol/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
