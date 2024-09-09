@@ -120,6 +120,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/gautamkshah/leetcode_sol/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gautamkshah/leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/gautamkshah/leetcode_sol/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
+| [2411-spiral-matrix-iv](https://github.com/gautamkshah/leetcode_sol/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -201,4 +203,9 @@
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/gautamkshah/leetcode_sol/tree/master/2035-count-sub-islands) |
+| [2411-spiral-matrix-iv](https://github.com/gautamkshah/leetcode_sol/tree/master/2411-spiral-matrix-iv) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/gautamkshah/leetcode_sol/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
