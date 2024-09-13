@@ -116,6 +116,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/gautamkshah/leetcode_sol/tree/master/1293-three-consecutive-odds) |
+| [1435-xor-queries-of-a-subarray](https://github.com/gautamkshah/leetcode_sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [2035-count-sub-islands](https://github.com/gautamkshah/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/gautamkshah/leetcode_sol/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -208,4 +209,12 @@
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/gautamkshah/leetcode_sol/tree/master/2411-spiral-matrix-iv) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/gautamkshah/leetcode_sol/tree/master/1435-xor-queries-of-a-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/gautamkshah/leetcode_sol/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
