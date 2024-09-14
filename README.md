@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/gautamkshah/leetcode_sol/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Sorting
 |  |
 | ------- |
@@ -161,12 +162,14 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamkshah/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/gautamkshah/leetcode_sol/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/gautamkshah/leetcode_sol/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Tree
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gautamkshah/leetcode_sol/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/gautamkshah/leetcode_sol/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gautamkshah/leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -178,6 +181,7 @@
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gautamkshah/leetcode_sol/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/gautamkshah/leetcode_sol/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2035-count-sub-islands](https://github.com/gautamkshah/leetcode_sol/tree/master/2035-count-sub-islands) |
 ## Sliding Window
 |  |
@@ -196,6 +200,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/gautamkshah/leetcode_sol/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2035-count-sub-islands](https://github.com/gautamkshah/leetcode_sol/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
@@ -223,4 +228,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gautamkshah/leetcode_sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Design
+|  |
+| ------- |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/gautamkshah/leetcode_sol/tree/master/1296-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
