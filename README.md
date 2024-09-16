@@ -114,6 +114,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamkshah/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/gautamkshah/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/gautamkshah/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/gautamkshah/leetcode_sol/tree/master/1293-three-consecutive-odds) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gautamkshah/leetcode_sol/tree/master/1435-xor-queries-of-a-subarray) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/gautamkshah/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/gautamkshah/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Stack
 |  |
@@ -190,11 +192,13 @@
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/gautamkshah/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/gautamkshah/leetcode_sol/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/gautamkshah/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/gautamkshah/leetcode_sol/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
 ## Breadth-First Search
