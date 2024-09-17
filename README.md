@@ -131,6 +131,7 @@
 | [0001-two-sum](https://github.com/gautamkshah/leetcode_sol/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/gautamkshah/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/gautamkshah/leetcode_sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gautamkshah/leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -201,6 +202,7 @@
 | [0539-minimum-time-difference](https://github.com/gautamkshah/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/gautamkshah/leetcode_sol/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/gautamkshah/leetcode_sol/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/gautamkshah/leetcode_sol/tree/master/1296-kth-ancestor-of-a-tree-node) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/gautamkshah/leetcode_sol/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
