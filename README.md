@@ -112,6 +112,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gautamkshah/leetcode_sol/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamkshah/leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/gautamkshah/leetcode_sol/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/gautamkshah/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/gautamkshah/leetcode_sol/tree/master/0539-minimum-time-difference) |
@@ -146,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/gautamkshah/leetcode_sol/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/gautamkshah/leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gautamkshah/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/gautamkshah/leetcode_sol/tree/master/0539-minimum-time-difference) |
@@ -199,6 +201,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/gautamkshah/leetcode_sol/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/gautamkshah/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/gautamkshah/leetcode_sol/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
@@ -242,4 +245,8 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gautamkshah/leetcode_sol/tree/master/0920-uncommon-words-from-two-sentences) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/gautamkshah/leetcode_sol/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
