@@ -126,6 +126,7 @@
 | [2411-spiral-matrix-iv](https://github.com/gautamkshah/leetcode_sol/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gautamkshah/leetcode_sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2846-robot-collisions](https://github.com/gautamkshah/leetcode_sol/tree/master/2846-robot-collisions) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gautamkshah/leetcode_sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/gautamkshah/leetcode_sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gautamkshah/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gautamkshah/leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gautamkshah/leetcode_sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/gautamkshah/leetcode_sol/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gautamkshah/leetcode_sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gautamkshah/leetcode_sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gautamkshah/leetcode_sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -249,4 +252,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/gautamkshah/leetcode_sol/tree/master/0179-largest-number) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gautamkshah/leetcode_sol/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
