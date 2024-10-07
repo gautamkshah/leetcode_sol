@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool valid(vector<vector<char>> &board,int ii, int jj,char c){
-        cout<<ii<<" "<<jj<<" "<<c<<endl;
         for(int i=0;i<9;i++){
             if(board[ii][i]==c) return false;
             if(board[i][jj]==c) return false;
