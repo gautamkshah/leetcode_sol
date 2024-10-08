@@ -26,7 +26,6 @@ public:
             if (mid2 - 1 >= 0) {
                 l2 = nums2[mid2 - 1];
             }
-            cout<<mid1<<" "<<mid2<<" "<<l1<<" "<<l2<< " "<<r1<<" "<<r2<<endl;
             if (l1 <= r2 && l2 <= r1) {
                 if (n % 2 == 1) {
                     return max(l1, l2);
