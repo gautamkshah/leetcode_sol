@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findFinalValue(vector<int>& nums, int original) {
-        set<int> st;
+        unordered_set<int> st;
         for(auto i:nums){
             st.insert(i);
         }
