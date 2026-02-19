@@ -1,47 +1,35 @@
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+
+using namespace __gnu_pbds;
+
+typedef tree<pair<int, int>, null_type, less<pair<int, int>>, rb_tree_tag, 
+             tree_order_statistics_node_update> ordered_set;
 class Solution {
 public:
     vector<double> medianSlidingWindow(vector<int>& nums, int k) {
-        multiset<int> window(nums.begin(), nums.begin() + k);
-        // Find the initial median iterator
-        // For k=4, it points to index 2 (3rd element). For k=5, it points to index 2 (3rd element).
-        auto mid = next(window.begin(), k / 2);
+    ordered_set window;
+    vector<double> result;
+
+    for (int i = 0; i < nums.size(); ++i) {
         
-        vector<double> result;
-        auto getMedian = [&]() {
-            if (k % 2 != 0) return (double)*mid;
-            // If even, average mid and the element right before it
-            return ((double)*mid + *prev(mid)) * 0.5;
-        };
+        window.insert({nums[i], i});
 
-        result.push_back(getMedian());
-
-        for (int i = k; i < nums.size(); ++i) {
-            // 1. Insert new element
-            window.insert(nums[i]);
-            if (nums[i] < *mid) {
-                mid--; // New element pushed the median to the left
-            }
-
-            // 2. Remove outgoing element
-            int outNum = nums[i - k];
-            if (outNum <= *mid) {
-                // If the outgoing number is the median or smaller, 
-                // we must move mid to the right before erasing to stay valid.
-                mid++; 
-            }
+        if (window.size() >= k) {
             
-            // Standard multiset::erase(val) removes ALL instances of val.
-            // We use find() to get an iterator to exactly ONE instance.
-            window.erase(window.find(outNum));
+            if (k % 2 != 0) {
+                result.push_back(window.find_by_order(k / 2)->first);
+            } else {
+               
+                double m1 = window.find_by_order(k / 2)->first;
+                double m2 = window.find_by_order(k / 2 - 1)->first;
+                result.push_back((m1 + m2) / 2.0);
+            }
 
-            // 3. Final alignment
-            // Because k/2 logic varies, we might need to adjust by one step
-            // to ensure 'mid' is at the correct index for the getMedian() logic.
-            // (Note: The specific logic above handles most cases; this is the simplified version)
-
-            result.push_back(getMedian());
+           
+            window.erase({nums[i - k + 1], i - k + 1});
         }
-
-        return result;
     }
+    return result;
+}
 };
