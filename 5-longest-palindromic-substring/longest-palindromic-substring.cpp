@@ -1,7 +1,5 @@
 class Solution {
 public:
-  //  int n;
-   
     string longestPalindrome(string s) {
         int n=s.size();
         vector<vector<int>> v(n,vector<int> (n,0));
@@ -31,19 +29,5 @@ public:
             }
         }
         return ans;
-    
-        
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
