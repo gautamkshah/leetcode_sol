@@ -4,14 +4,14 @@ public:
         int n=nums.size();
         map<int,int> mp;
         mp[0]=1;
-        int c=0;
-        int sum=0;
-        for(int i=0;i<n;i++){
-            sum+=nums[i];
-            c+=mp[sum-k];
-            mp[sum]++;
+        int curr_sum=0;
+        int count=0;
+        for(auto i:nums){
+            curr_sum+=i;
+            count+=mp[curr_sum-k];
+            mp[curr_sum]++;
         }
-        return c;
+        return count;
         
     }
 };
